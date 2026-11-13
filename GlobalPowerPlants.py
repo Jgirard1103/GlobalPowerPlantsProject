@@ -55,9 +55,9 @@ RENEWABLE_FUELS = [f for f, info in FUEL_INFO.items() if info["group"] == "Renew
 
 PAGES = [
     "Overview",
-    "Q1: Fuel mix by country",
-    "Q2: Renewable plant map",
-    "Q3: Largest power plants",
+    "Fuel mix by country",
+    "Renewable plant map",
+    "Largest power plants",
 ]
 
 DEFAULT_COUNTRIES = ["United States of America", "China", "India", "Germany"]
