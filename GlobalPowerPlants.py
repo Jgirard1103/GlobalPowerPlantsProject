@@ -30,7 +30,7 @@ import streamlit as st
 # ---------------------------------------------------------------------------
 
 # Relative path so the app runs on any computer / Streamlit Cloud.
-DATA_FILE = Path(__file__).parent / "data" / "global_power_plant_database.csv"
+DATA_FILE = "global_power_plant_database.csv"
 
 # Each fuel gets a category, a hex color and a short description.
 FUEL_INFO = {
