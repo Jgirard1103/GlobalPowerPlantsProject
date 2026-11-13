@@ -5,7 +5,7 @@ Name: Jacob Girard
 Section: 7
 Dataset: WRI Global Power Plant Database (v1.3.0)
          https://github.com/wri/global-power-plant-database
-App URL: <add your Streamlit Cloud URL here>
+App URL: <https://globalpowerplantsproject-5q3iaflmny7ydazy6ptdpv.streamlit.app/>
 
 Description:
     An interactive Streamlit app for students, researchers, and anyone curious
